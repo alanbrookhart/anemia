@@ -21,7 +21,7 @@ You can install the package from Bitbucket
 
 ```{r bb-installation, eval = FALSE}
 library("devtools")
-devtools::install_bitbucket("novisci/anemia")
+devtools::install_github("alanbrookhart/anemia")
 ```
 
 ## Codebook 
